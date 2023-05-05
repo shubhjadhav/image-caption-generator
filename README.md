@@ -8,7 +8,7 @@ To develop an image captioning system that can automatically generate accurate a
 
 <b>Dataset:</b> Flickr 8K
 
-<b>Model Architectures:</b> We experimented with four different models for image captioning:
+<b>Model Architectures:</b> We experimented with five different models for image captioning:
 <li>VGG (architecture) with RNN (Recurrent Neural Network)</li>
 <li>VGG with LSTM (Long Short-Term Memory)</li>
 <li>Inception (architecture) with LSTM</li>
