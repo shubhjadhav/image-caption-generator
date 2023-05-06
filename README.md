@@ -28,6 +28,20 @@ Following are a few observations from the Flickr 8k dataset:
   <li>Inception with LSTM and GRU (Gated Recurrent Unit)</li>
 </ol>
 
+### Image Processing
+
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/33513926/236594947-9adafd8b-86c0-49b5-8578-41a9a37828a2.png">
+
+### Caption Processing
+
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/33513926/236594970-7a68900d-b88b-438c-867b-a1ea3bafc476.png">
+
+### Model Creation
+
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/33513926/236594986-42eb5904-435a-486a-a446-37f1dee6c371.png">
+
+### Baseline and Final Model Architecture Comparision
+
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/33513926/236594752-1c947d42-4e33-47e3-ad13-d198b5ac3d97.png">
 
 <b>Model Training:</b> The models were trained for 10 epochs, with a batch size of 32. We used the Adam optimizer with a learning rate of 0.001 and a categorical cross-entropy loss function to optimize the models.
