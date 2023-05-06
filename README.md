@@ -11,11 +11,25 @@
 The Flickr 8K dataset is a collection of 8,000 images that are each paired with five different textual descriptions, for a total of 40,000 captions. The images were chosen from six different Flickr groups, and tend not to contain any well-known people or locations, but were manually selected to depict a variety of scenes and situations.
 
 ## Data Analysis
+
 Following are a few observations from the Flickr 8k dataset:
-<li>The average caption length is around 10-12 words.</li>
-<li>The dataset contains a vocabulary of 9630 unique words.</li>
-<li>The most common words in the captions include "man", "woman", "girl", "water", "black", "white", "boy", and "front". Figure shows the wordcloud of the Flicker8K corpus.</li>
-<li>The images in the dataset are of different sizes, with the average image size being around 400x300 pixels.</li>
+
+<b>Caption Analysis:</b> 
+<ol>
+  <li>Unique words vocabulary: 9630.</li>
+  <li>Average caption length: 10-12 words.</li>
+  <li>Mean caption length: 11.78.</li>
+  <li>Standard deviation of caption length: 3.8.</li>
+  <li>Maximum caption length: 38.</li>
+  <li>The most common words in the captions include "man", "woman", "girl", "water", "black", "white", "boy", and "front". Figure 1 shows the wordcloud of the Flicker8K corpus.</li>
+</ol>
+
+<b>Image Analysis:</b>
+<ol>
+  <li>The dataset contains a collection of 8000 images.</li>
+  <li>The images in the Flickr 8k dataset cover a wide range of topics and subjects, including landscapes, people, animals, buildings, and more.</li>
+  <li>The images in the dataset are of different sizes, with the average image size being around 400x300 pixels.</li>
+</ol>
 
 ## Experimental Setup
 
